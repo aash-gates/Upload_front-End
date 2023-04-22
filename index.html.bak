@@ -155,3 +155,4 @@ a:hover {
 
 @media(max-width:424px) {
     .wrapper {
+        padding: 30px 10px;

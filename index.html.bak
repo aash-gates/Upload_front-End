@@ -147,3 +147,4 @@ a:hover {
     background-color: #55268be0
 }
 
+@media(max-width: 575px) {

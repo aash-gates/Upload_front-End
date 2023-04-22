@@ -149,3 +149,4 @@ a:hover {
 
 @media(max-width: 575px) {
     .wrapper {
+        margin: 10px

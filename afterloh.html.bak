@@ -43,3 +43,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
             <button type="submit" class="btn btn-primary">Upload</button> </form>
         </div>
       </div>
+    </div>

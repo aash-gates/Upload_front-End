@@ -128,3 +128,4 @@ a:hover {
 }
 
 .option input[type="radio"]:checked~.checkmark {
+    background: #fff;

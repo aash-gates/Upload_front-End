@@ -129,3 +129,4 @@ a:hover {
 
 .option input[type="radio"]:checked~.checkmark {
     background: #fff;
+    transition: 300ms ease-in-out 0s;

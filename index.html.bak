@@ -182,6 +182,7 @@ a:hover {
     }
 }</style>
                                 <script type='text/javascript' src=''></script>
+    <div class="h2 text-center">Creativity</div>
     <div class="h4 text-muted text-center pt-2">Enter your login details</div>
     <form class="pt-3">
         <div class="form-group py-2">

@@ -164,4 +164,5 @@ a:hover {
         padding-left: 22px
     }
 
+    .option label.text-muted {
         font-size: 0.95rem

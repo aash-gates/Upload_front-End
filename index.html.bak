@@ -98,3 +98,4 @@ a:hover {
 }
 
 .checkmark {
+    position: absolute;

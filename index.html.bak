@@ -166,3 +166,4 @@ a:hover {
 
     .option label.text-muted {
         font-size: 0.95rem
+    }

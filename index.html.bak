@@ -121,3 +121,4 @@ a:hover {
     background: #400485;
     position: absolute;
     top: 48%;
+    border-radius: 50%;

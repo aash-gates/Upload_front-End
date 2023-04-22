@@ -151,3 +151,4 @@ a:hover {
     .wrapper {
         margin: 10px
     }
+}

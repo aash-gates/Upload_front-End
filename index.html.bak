@@ -66,3 +66,4 @@ input {
 }
 
 .fa-eye-slash.btn {
+    border: none;

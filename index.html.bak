@@ -79,3 +79,4 @@ a {
 
 a:hover {
     text-decoration: none;
+    color: #7b4ca0

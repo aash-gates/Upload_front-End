@@ -52,3 +52,4 @@ body {
 }
 
 .input-field:hover {
+    color: #7b4ca0;

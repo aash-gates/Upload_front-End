@@ -65,3 +65,4 @@ input {
     font-family: 'Poppins', sans-serif
 }
 
+.fa-eye-slash.btn {

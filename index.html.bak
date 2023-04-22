@@ -114,3 +114,4 @@ a:hover {
 }
 
 .option .checkmark:after {
+    content: "";

@@ -101,3 +101,4 @@ a:hover {
     position: absolute;
     top: 3px;
     left: 0;
+    height: 20px;

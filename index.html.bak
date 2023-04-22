@@ -123,3 +123,4 @@ a:hover {
     top: 48%;
     left: 53%;
     border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);

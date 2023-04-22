@@ -60,6 +60,7 @@
         //Update the selected option in the dropdown button
         $(".dropdown-toggle").html($(this).text() + ' <span class="caret"></span>');
         //Update the content below based on the selected option
+        switch (selectedOption) {
           case "pdf":
             $("#selection-container").html("<h3 class='selected'>You selected PDF</h5>");
             break;

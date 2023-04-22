@@ -142,3 +142,5 @@ a:hover {
     background-color: #400485;
     color: #fff
 }
+
+.btn.btn-block:hover {

@@ -5,3 +5,4 @@
     <title>Dark Red Bootstrap Header</title>
   </head>
   <body style="background: linear-gradient(to top, #e76f6f, #e9c7c7); height: 100vh;">&nbsp;
+    <meta name="viewport" content="width=device-width, initial-scale=1">

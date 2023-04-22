@@ -99,3 +99,4 @@ a:hover {
 
 .checkmark {
     position: absolute;
+    top: 3px;

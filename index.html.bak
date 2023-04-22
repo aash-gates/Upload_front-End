@@ -168,3 +168,4 @@ a:hover {
         font-size: 0.95rem
     }
 
+    .checkmark {

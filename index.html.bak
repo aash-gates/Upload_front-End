@@ -119,3 +119,4 @@ a:hover {
     height: 13px;
     display: block;
     background: #400485;
+    position: absolute;

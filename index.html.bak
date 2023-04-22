@@ -86,3 +86,4 @@ a:hover {
     position: relative;
     padding-left: 30px;
     cursor: pointer
+}

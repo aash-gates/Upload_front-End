@@ -93,3 +93,4 @@ a:hover {
     cursor: pointer
 }
 
+.option input {

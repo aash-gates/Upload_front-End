@@ -154,3 +154,4 @@ a:hover {
 }
 
 @media(max-width:424px) {
+    .wrapper {

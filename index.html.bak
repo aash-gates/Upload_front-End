@@ -21,3 +21,4 @@ body {
     background: linear-gradient(to top, #fff 10%, rgba(93, 42, 141, 0.4) 90%) no-repeat
 }
 
+.wrapper {

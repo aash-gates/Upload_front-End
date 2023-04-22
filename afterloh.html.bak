@@ -64,3 +64,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
 integrity="sha512-D3zqJ/d3nXJtFp9c8P/jzIzeTtRlMb+JWwA8MVa/Vsi/MawxgJLHc+yAtT7+fpv0SzWMrjyJr3L3X7dM1awMpw=="
 crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"
+integrity="sha512-t+Tt56fL7VHJl0m+7r1XGz1h7Dm0J8GXOf+VJgBrOXb6/K5W6U5AD/SnR9XcQxrFnfjW6n8n4Mwq3UqSOboSIg=="

@@ -134,4 +134,3 @@ a:hover {
 }
 
 .option input[type="radio"]:checked~.checkmark:after {
-}

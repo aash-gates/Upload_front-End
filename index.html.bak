@@ -84,3 +84,4 @@ a:hover {
 
 .option {
     position: relative;
+    padding-left: 30px;

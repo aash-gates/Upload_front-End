@@ -112,3 +112,4 @@ a:hover {
 .option input:checked~.checkmark:after {
     display: block
 }
+

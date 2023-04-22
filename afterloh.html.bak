@@ -15,3 +15,4 @@
       integrity="sha512-zvK8sMdvcZMq3ykfdMzBt/CrIkXpIyndT7TtT+N4hke4c4iWjKdfZC15E0Q2h7oXfvWdVRqj3GduJS5Fd5WRGg=="
       crossorigin="anonymous">
     <style>/* Set the background color of the header */ .header{background-color: #9d0707e7;color: #fff;padding: 10px;display: flex;align-items: center;}/* Set the profile picture */.profile-pic{width: 50px;height: 50px;border-radius: 50%;margin-left: auto;}</style>
+    <header class="header">

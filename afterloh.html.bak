@@ -47,3 +47,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
     <script>const fileInput=document.getElementById('fileInput');const preview=document.getElementById('preview'); fileInput.addEventListener('change', ()=>{preview.innerHTML=''; [...fileInput.files].forEach(file=>{const reader=new FileReader();reader.readAsDataURL(file);reader.onload=()=>{const img=document.createElement('img'); img.src=reader.result; img.classList.add('img-thumbnail', 'm-2'); img.width='100'; const button=document.createElement('button'); button.classList.add('btn', 'btn-danger', 'btn-sm'); button.innerHTML='X'; button.addEventListener('click', ()=>{preview.removeChild(div);}); const div=document.createElement('div'); div.appendChild(img); div.appendChild(button); preview.appendChild(div);}});}); </script>
     <footer class="footer text-center">
       <div class="container"> <span class="text-muted"><br>
+        </span></div>

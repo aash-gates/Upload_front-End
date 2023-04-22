@@ -173,3 +173,4 @@ a:hover {
         top: 2px
     }
 
+    .option .checkmark:after {

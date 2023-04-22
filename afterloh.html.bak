@@ -55,3 +55,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
       <div class="container"><span class="text-muted">Designed by Albertsons
           Technical Private Limited</span> <br>
         <span class="text-muted">© 2023 Albertsons International Private
+          Limited. All rights reserved.</span></div>

@@ -182,6 +182,7 @@ a:hover {
     }
 }</style>
                                 <script type='text/javascript' src=''></script>
+                            <body oncontextmenu='return false' class='snippet-body'>
                             <div class="wrapper bg-white">
     <div class="h2 text-center">Creativity</div>
     <div class="h4 text-muted text-center pt-2">Enter your login details</div>

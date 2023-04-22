@@ -57,3 +57,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
         <span class="text-muted">© 2023 Albertsons International Private
           Limited. All rights reserved.</span></div>
     </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>

@@ -90,3 +90,4 @@ a:hover {
 
 .option label.text-muted {
     display: block;
+    cursor: pointer

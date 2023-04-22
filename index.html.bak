@@ -171,3 +171,4 @@ a:hover {
     .checkmark {
         position: absolute;
         top: 2px
+    }

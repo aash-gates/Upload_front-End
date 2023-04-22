@@ -31,3 +31,4 @@ class="form-control" id="description" rows="3" placeholder="Enter description"><
                 id="tags" placeholder="Enter tags" type="text"> </div>
             <div class="form-group"><label for="fileInput">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 Choose file(s)</label><input id="fileInput" multiple="" type="file">
+            </div>

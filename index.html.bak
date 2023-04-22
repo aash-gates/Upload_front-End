@@ -116,3 +116,4 @@ a:hover {
 .option .checkmark:after {
     content: "";
     width: 13px;
+    height: 13px;

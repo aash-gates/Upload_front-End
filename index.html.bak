@@ -29,3 +29,4 @@ body {
     box-shadow: 20px 20px 80px rgb(206, 206, 206)
 }
 
+.h2 {

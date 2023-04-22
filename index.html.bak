@@ -118,3 +118,4 @@ a:hover {
     width: 13px;
     height: 13px;
     display: block;
+    background: #400485;

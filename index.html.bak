@@ -62,3 +62,4 @@ input {
     box-shadow: none;
     width: 100%;
     padding: 0px 2px;
+    font-family: 'Poppins', sans-serif

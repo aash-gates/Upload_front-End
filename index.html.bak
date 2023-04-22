@@ -56,3 +56,4 @@ body {
     border: 1px solid #7b4ca0
 }
 
+input {

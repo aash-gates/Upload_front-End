@@ -134,3 +134,4 @@ a:hover {
 }
 
 .option input[type="radio"]:checked~.checkmark:after {
+    transform: translate(-50%, -50%) scale(1)

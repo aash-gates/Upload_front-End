@@ -32,3 +32,4 @@ body {
 .h2 {
     font-family: 'Kaushan Script', cursive;
     font-size: 3.5rem;
+    font-weight: bold;

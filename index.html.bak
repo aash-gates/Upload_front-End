@@ -9,3 +9,4 @@
                                 <style>@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins&display=swap');
 
 * {
+    padding: 0;

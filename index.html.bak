@@ -139,3 +139,4 @@ a:hover {
 
 .btn.btn-block {
     border-radius: 20px;
+    background-color: #400485;

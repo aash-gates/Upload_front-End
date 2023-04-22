@@ -106,3 +106,4 @@ a:hover {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 50%;
+    cursor: pointer

@@ -127,7 +127,13 @@
         <label for="file">Browse files:</label>
         <input type="file" id="file" name="file" accept="video/*, audio/*, image/*, application/vnd.ms-powerpoint, application/pdf, text/html" multiple required>
         
+        <div id="preview"></div>
 
+        <label for="content-type">Select content type:</label>
+        <select id="content-type" name="content-type" required>
+          <option value="">-- Select content type --</option>
+          <option value="video">Video</option>
+          <option value="audio">Audio</option>
 
 
 

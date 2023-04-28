@@ -147,3 +147,14 @@
 
       fileInput.addEventListener('change', (event) => {
         preview.innerHTML = '';
+        const files = event.target.files;
+        for (let i = 0; i < files.length; i++) {
+          const file = files[i];
+          const fileType = file.type.split('/')[0];
+          const previewItem = document.createElement('div');
+          previewItem.classList.add('preview-container');
+          if (fileType === 'image') {
+            const img = document.createElement('img');
+            img.src = URL.createObjectURL(file);
+            previewItem.appendChild(img);
+          } else {

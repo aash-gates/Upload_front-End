@@ -158,3 +158,13 @@
             img.src = URL.createObjectURL(file);
             previewItem.appendChild(img);
           } else {
+            const fileIcon = document.createElement('div');
+            fileIcon.innerText = fileType.toUpperCase();
+            previewItem.appendChild(fileIcon);
+          }
+          const fileName = document.createElement('div');
+          fileName.innerText = file.name;
+          previewItem.appendChild(fileName);
+          const removeFile = document.createElement('div');
+          removeFile.classList.add('remove-file');
+          removeFile.addEventListener('click', () => {

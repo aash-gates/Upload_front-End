@@ -88,3 +88,13 @@
       .preview-container img {
         width: 50px;
         margin-right: 10px;
+      }
+      .remove-file {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        margin-left: 10px;
+        cursor: pointer;
+      }
+      .remove-file:before,
+      .remove-file:after {

@@ -108,3 +108,13 @@
       .remove-file:before {
         transform: rotate(-45deg);
       }
+    </style>
+          <div class="upload-box">
+            <form> <label for="name">Name:</label> <input id="name" name="name"
+
+                required="" type="text"> <label for="description">Description:</label>
+              <input id="description" name="description" required="" type="text">
+              <label for="tags">Tags:</label> <input id="tags" name="tags" required=""
+
+                type="text"> <label for="file">Browse files:</label> <input id="file"
+

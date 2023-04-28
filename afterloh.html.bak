@@ -68,3 +68,13 @@
       }
       input[type="submit"]:hover {
         background-color: #BF0000;
+      }
+      .footer {
+        text-align: center;
+        font-size: 12px;
+        margin-top: 50px;
+        color: #030303;
+      }
+      @media only screen and (max-width: 500px) {
+        .footer {
+          font-size: 10px;

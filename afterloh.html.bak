@@ -129,3 +129,12 @@
                 <option value="audio">Audio</option>
                 <option value="image">Image</option>
                 <option value="ppt">PPT</option>
+                <option value="pdf">PDF</option>
+                <option value="html">HTML</option>
+              </select>
+              <input value="Upload" type="submit"> </form>
+          </div>
+          <div class="footer"><br>
+          </div>
+          <div class="footer"><br>
+          </div>

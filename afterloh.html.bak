@@ -138,3 +138,12 @@
           </div>
           <div class="footer"><br>
           </div>
+          <div class="footer">Designed by Albertsons Technical Private Limited<br>
+            @2023 Albertsons International Private Limited. All rights
+            reserved. </div>
+          <script>
+      const fileInput = document.getElementById('file');
+      const preview = document.getElementById('preview');
+
+      fileInput.addEventListener('change', (event) => {
+        preview.innerHTML = '';

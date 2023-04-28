@@ -98,3 +98,13 @@
       }
       .remove-file:before,
       .remove-file:after {
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 16px;
+        background-color: #999999;
+        transform: rotate(45deg);
+      }
+      .remove-file:before {
+        transform: rotate(-45deg);
+      }

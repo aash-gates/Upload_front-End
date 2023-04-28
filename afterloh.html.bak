@@ -1,13 +1,3 @@
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 offset-md-3 mt-5">
-          <form>
-            <div class="form-group"><label for="name">Name</label><input class="form-control"
-                id="name" placeholder="Enter name" type="text"> </div>
-            <div class="form-group"><label for="description">Description</label><textarea
-class="form-control" id="description" rows="3" placeholder="Enter description"></textarea>
-            </div>
-            <div class="form-group"><label for="tags">Tags</label><input class="form-control"
                 id="tags" placeholder="Enter tags" type="text"> </div>
             <div class="form-group"><label for="fileInput">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 Choose file(s)</label><input id="fileInput" multiple="" type="file">

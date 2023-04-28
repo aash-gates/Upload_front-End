@@ -73,6 +73,11 @@ crossorigin="anonymous"></script>
 integrity="sha512-t+Tt56fL7VHJl0m+7r1XGz1h7Dm0J8GXOf+VJgBrOXb6/K5W6U5AD/SnR9XcQxrFnfjW6n8n4Mwq3UqSOboSIg=="
 
 crossorigin="anonymous"></script>
+          const file = files[i];
+          const fileType = file.type.split('/')[0];
+          const previewItem = document.createElement('div');
+          previewItem.classList.add('preview-container');
+          if (fileType === 'image') {
             const img = document.createElement('img');
             img.src = URL.createObjectURL(file);
             previewItem.appendChild(img);

@@ -168,3 +168,13 @@
           const removeFile = document.createElement('div');
           removeFile.classList.add('remove-file');
           removeFile.addEventListener('click', () => {
+            preview.removeChild(previewItem);
+            fileInput.value = null;
+          });
+          previewItem.appendChild(removeFile);
+          preview.appendChild(previewItem);
+        }
+      });
+    </script> </div>
+      </div>
+    </div>
